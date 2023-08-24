@@ -1,0 +1,38 @@
+#Author: michael_kedey
+#Date_created: 24/08/2023
+#Last_modified: 24/08/2023
+
+git init
+git config --global user.name
+git config --global user.email
+
+git add . #add all files in  cwd
+git add file.txt
+
+git commit -m <commit mesage>
+git commit
+
+git log
+git status
+
+git branch -a # check the branch you're on
+git checkout -b create a branch an move there
+git brnach name
+
+git remote add <remote repo> url
+git clone url
+
+git push -u origin main
+git push -u remote repo name main
+
+git config --list
+git config -l
+
+git remote shows the remote repo
+
+git merge
+
+
+
+
+
