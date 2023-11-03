@@ -6,8 +6,8 @@
 
 **LinkedIn: www.linkedin.com/in/michaelkedey**
 
-- **How to use**
-  - **to run any of the bash scripts**
+- **How to**
+- **to run any of the bash scripts**
     - 1. run **./<script_name>**
     - 2. you can also run **bash <script_name>**
     - 3. you may have to change the scripts to executable on your local environment, in other to run them
